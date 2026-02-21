@@ -149,6 +149,10 @@ module_update() {
   # Fetch versions first
   fetch_versions
 
+  # Always run hailstorm from repo root so it resolves data/ and cache/
+  # relative to the repo, regardless of where the caller invoked this script.
+  cd "$REPO_ROOT"
+
   log_info "Running: $HAILSTORM_PATH --dbonly --client-version $CLIENT_VERSION --res-info $RES_VERSION"
   "$HAILSTORM_PATH" --dbonly --client-version "$CLIENT_VERSION" --res-info "$RES_VERSION"
   log_info "hailstorm update complete."
