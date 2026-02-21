@@ -178,8 +178,10 @@ module_git() {
   log_info "=== Module 2: Git Commit / Push ==="
   cd "$REPO_ROOT"
 
-  # Stage only root-level YAML files; exclude build/tool dirs
-  git add -- '*.yaml' ':!cache/' ':!masterdata/' ':!output/' ':!scripts/'
+  # Stage only root-level YAML files.
+  # Note: cache/ is already covered by .gitignore, so no need to exclude it
+  # explicitly here (doing so causes git to return non-zero under set -e).
+  git add -- '*.yaml'
 
   # Check if there are any staged changes
   if git diff --cached --quiet; then
