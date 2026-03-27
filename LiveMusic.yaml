@@ -12,6 +12,13 @@
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31039
+  Label: ユニットMC
+  MusicId: 3103
+  HaveMusic: 0
+  HaveMotion: 0
+  CharactersCount: 11
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 31049
   Label: 客電
   MusicId: 3104
@@ -96,6 +103,13 @@
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31149
+  Label: 開会宣言2603
+  MusicId: 3114
+  HaveMusic: 0
+  HaveMotion: 0
+  CharactersCount: 11
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 31242
   Label: ダンスバトル2510
   MusicId: 3124
@@ -474,6 +488,48 @@
   HaveMotion: 1
   CharactersCount: 8
   CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 50212
+  Label: EdelinieN
+  MusicId: 5021
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1051,1052
+- Id: 50223
+  Label: トモダチになれる場所
+  MusicId: 5022
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
+- Id: 50233
+  Label: アイシイ
+  MusicId: 5023
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042
+- Id: 50243
+  Label: 不思議と君とライブラリー
+  MusicId: 5024
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1021,1031,1041
+- Id: 50259
+  Label: 今、過去、未来の三原色
+  MusicId: 5025
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 11
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 50269
+  Label: DreamBelievers(11人)
+  MusicId: 5026
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 11
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
