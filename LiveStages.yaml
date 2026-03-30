@@ -15104,3 +15104,16 @@
   StageSkillDescription: ステージ開始時、デッキの全てのカードの消費APをステージ中常に+2する。メイン効果がメンタル回復のスキルを使用するたび、デッキの全てのカードの消費APを-2し、APが5回復する。
   StageSkillSetIds: 200050,100101,100188
   IsHeartCollectCTAvailable: 0
+- Id: 571055601
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 80
+  MentalStepClass: 3
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: 花帆、さやか、瑠璃乃のスキルを使用するたび、APを10回復する。また山札が切れるたび、獲得するLOVEを-10000000%し、ボルテージを-10000000する。
+  StageSkillSetIds: 100201,100202,100203,200103,200120
+  IsHeartCollectCTAvailable: 0
