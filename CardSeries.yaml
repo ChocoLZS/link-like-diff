@@ -18,6 +18,8 @@
   Evolution3RequiredFanLv: 1
   Evolution4RequiredFanLv: 1
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1010500
   Evolution0Id: 0
   Evolution1Id: 0
@@ -38,6 +40,8 @@
   Evolution3RequiredFanLv: 1
   Evolution4RequiredFanLv: 1
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1011501
   Evolution0Id: 10115010
   Evolution1Id: 10115011
@@ -58,6 +62,8 @@
   Evolution3RequiredFanLv: 0
   Evolution4RequiredFanLv: 0
   StyleSettingType: 2
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1020501
   Evolution0Id: 10205010
   Evolution1Id: 10205011
@@ -78,6 +84,8 @@
   Evolution3RequiredFanLv: 0
   Evolution4RequiredFanLv: 0
   StyleSettingType: 2
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021301
   Evolution0Id: 10213010
   Evolution1Id: 10213011
@@ -98,6 +106,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021302
   Evolution0Id: 10213020
   Evolution1Id: 10213021
@@ -118,6 +128,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021303
   Evolution0Id: 10213030
   Evolution1Id: 10213031
@@ -138,6 +150,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021304
   Evolution0Id: 10213040
   Evolution1Id: 10213041
@@ -158,6 +172,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021401
   Evolution0Id: 10214010
   Evolution1Id: 10214011
@@ -178,6 +194,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021402
   Evolution0Id: 10214020
   Evolution1Id: 10214021
@@ -198,6 +216,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021403
   Evolution0Id: 10214030
   Evolution1Id: 10214031
@@ -218,6 +238,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021404
   Evolution0Id: 10214040
   Evolution1Id: 10214041
@@ -238,6 +260,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021405
   Evolution0Id: 10214050
   Evolution1Id: 10214051
@@ -258,6 +282,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021406
   Evolution0Id: 10214060
   Evolution1Id: 10214061
@@ -278,6 +304,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021407
   Evolution0Id: 10214070
   Evolution1Id: 10214071
@@ -298,6 +326,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021408
   Evolution0Id: 10214080
   Evolution1Id: 10214081
@@ -318,6 +348,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021409
   Evolution0Id: 10214090
   Evolution1Id: 10214091
@@ -338,6 +370,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021410
   Evolution0Id: 10214100
   Evolution1Id: 10214101
@@ -358,6 +392,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021411
   Evolution0Id: 10214110
   Evolution1Id: 10214111
@@ -378,6 +414,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021412
   Evolution0Id: 10214120
   Evolution1Id: 10214121
@@ -398,6 +436,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021413
   Evolution0Id: 10214130
   Evolution1Id: 10214131
@@ -418,6 +458,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021414
   Evolution0Id: 10214140
   Evolution1Id: 10214141
@@ -438,6 +480,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021415
   Evolution0Id: 10214150
   Evolution1Id: 10214151
@@ -458,6 +502,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021416
   Evolution0Id: 10214160
   Evolution1Id: 10214161
@@ -478,6 +524,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021417
   Evolution0Id: 10214170
   Evolution1Id: 10214171
@@ -498,6 +546,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021418
   Evolution0Id: 10214180
   Evolution1Id: 10214181
@@ -518,6 +568,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021419
   Evolution0Id: 10214190
   Evolution1Id: 10214191
@@ -538,6 +590,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021420
   Evolution0Id: 10214200
   Evolution1Id: 10214201
@@ -558,6 +612,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021421
   Evolution0Id: 10214210
   Evolution1Id: 10214211
@@ -578,6 +634,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021501
   Evolution0Id: 10215010
   Evolution1Id: 10215011
@@ -598,6 +656,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021502
   Evolution0Id: 10215020
   Evolution1Id: 10215021
@@ -618,6 +678,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021503
   Evolution0Id: 10215030
   Evolution1Id: 10215031
@@ -638,6 +700,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021504
   Evolution0Id: 10215040
   Evolution1Id: 10215041
@@ -658,6 +722,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021505
   Evolution0Id: 10215050
   Evolution1Id: 10215051
@@ -678,6 +744,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021506
   Evolution0Id: 10215060
   Evolution1Id: 10215061
@@ -698,6 +766,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021507
   Evolution0Id: 10215070
   Evolution1Id: 10215071
@@ -718,6 +788,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021508
   Evolution0Id: 10215080
   Evolution1Id: 10215081
@@ -738,6 +810,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021509
   Evolution0Id: 10215090
   Evolution1Id: 10215091
@@ -758,6 +832,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021510
   Evolution0Id: 10215100
   Evolution1Id: 10215101
@@ -778,6 +854,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021511
   Evolution0Id: 10215110
   Evolution1Id: 10215111
@@ -798,6 +876,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021512
   Evolution0Id: 10215120
   Evolution1Id: 10215121
@@ -818,6 +898,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021513
   Evolution0Id: 10215130
   Evolution1Id: 10215131
@@ -838,6 +920,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021514
   Evolution0Id: 10215140
   Evolution1Id: 10215141
@@ -858,6 +942,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021515
   Evolution0Id: 10215150
   Evolution1Id: 10215151
@@ -878,6 +964,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021516
   Evolution0Id: 0
   Evolution1Id: 10215161
@@ -898,6 +986,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021517
   Evolution0Id: 10215170
   Evolution1Id: 10215171
@@ -918,6 +1008,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021518
   Evolution0Id: 10215180
   Evolution1Id: 10215181
@@ -938,6 +1030,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021519
   Evolution0Id: 10215190
   Evolution1Id: 10215191
@@ -958,6 +1052,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021520
   Evolution0Id: 10215200
   Evolution1Id: 10215201
@@ -978,6 +1074,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021521
   Evolution0Id: 10215210
   Evolution1Id: 10215211
@@ -998,6 +1096,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021522
   Evolution0Id: 10215220
   Evolution1Id: 10215221
@@ -1018,6 +1118,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021523
   Evolution0Id: 10215230
   Evolution1Id: 10215231
@@ -1038,6 +1140,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021524
   Evolution0Id: 10215240
   Evolution1Id: 10215241
@@ -1058,6 +1162,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021525
   Evolution0Id: 10215250
   Evolution1Id: 10215251
@@ -1078,6 +1184,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021526
   Evolution0Id: 10215260
   Evolution1Id: 10215261
@@ -1098,6 +1206,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021527
   Evolution0Id: 10215270
   Evolution1Id: 10215271
@@ -1118,6 +1228,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021701
   Evolution0Id: 0
   Evolution1Id: 10217011
@@ -1138,6 +1250,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021702
   Evolution0Id: 0
   Evolution1Id: 10217021
@@ -1158,26 +1272,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
-- Id: 1021703
-  Evolution0Id: 0
-  Evolution1Id: 10217031
-  Evolution2Id: 10217032
-  ObtainFanLvPt: 2000
-  Evolution1FanLvPt: 0
-  Evolution2FanLvPt: 2000
-  LimitBreak1FanLvPt: 2000
-  LimitBreak2FanLvPt: 2000
-  LimitBreak3FanLvPt: 2000
-  LimitBreak4FanLvPt: 2000
-  LimitedType: 0
-  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
-  Evolution3Id: 10217033
-  Evolution4Id: 10217034
-  Evolution3FanLvPt: 800
-  Evolution4FanLvPt: 800
-  Evolution3RequiredFanLv: 120
-  Evolution4RequiredFanLv: 140
-  StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021801
   Evolution0Id: 0
   Evolution1Id: 10218011
@@ -1198,6 +1294,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021802
   Evolution0Id: 0
   Evolution1Id: 10218021
@@ -1218,6 +1316,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1021901
   Evolution0Id: 0
   Evolution1Id: 10219011
@@ -1238,6 +1338,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022301
   Evolution0Id: 10223010
   Evolution1Id: 10223011
@@ -1258,6 +1360,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022302
   Evolution0Id: 10223020
   Evolution1Id: 10223021
@@ -1278,6 +1382,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022303
   Evolution0Id: 10223030
   Evolution1Id: 10223031
@@ -1298,6 +1404,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022304
   Evolution0Id: 10223040
   Evolution1Id: 10223041
@@ -1318,6 +1426,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022401
   Evolution0Id: 10224010
   Evolution1Id: 10224011
@@ -1338,6 +1448,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022402
   Evolution0Id: 10224020
   Evolution1Id: 10224021
@@ -1358,6 +1470,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022403
   Evolution0Id: 10224030
   Evolution1Id: 10224031
@@ -1378,6 +1492,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022404
   Evolution0Id: 10224040
   Evolution1Id: 10224041
@@ -1398,6 +1514,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022405
   Evolution0Id: 10224050
   Evolution1Id: 10224051
@@ -1418,6 +1536,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022406
   Evolution0Id: 10224060
   Evolution1Id: 10224061
@@ -1438,6 +1558,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022407
   Evolution0Id: 10224070
   Evolution1Id: 10224071
@@ -1458,6 +1580,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022408
   Evolution0Id: 10224080
   Evolution1Id: 10224081
@@ -1478,6 +1602,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022409
   Evolution0Id: 10224090
   Evolution1Id: 10224091
@@ -1498,6 +1624,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022410
   Evolution0Id: 10224100
   Evolution1Id: 10224101
@@ -1518,6 +1646,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022411
   Evolution0Id: 10224110
   Evolution1Id: 10224111
@@ -1538,6 +1668,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022412
   Evolution0Id: 10224120
   Evolution1Id: 10224121
@@ -1558,6 +1690,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022413
   Evolution0Id: 10224130
   Evolution1Id: 10224131
@@ -1578,6 +1712,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022414
   Evolution0Id: 10224140
   Evolution1Id: 10224141
@@ -1598,6 +1734,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022415
   Evolution0Id: 10224150
   Evolution1Id: 10224151
@@ -1618,6 +1756,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022416
   Evolution0Id: 10224160
   Evolution1Id: 10224161
@@ -1638,6 +1778,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022417
   Evolution0Id: 10224170
   Evolution1Id: 10224171
@@ -1658,6 +1800,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022418
   Evolution0Id: 10224180
   Evolution1Id: 10224181
@@ -1678,6 +1822,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022419
   Evolution0Id: 10224190
   Evolution1Id: 10224191
@@ -1698,6 +1844,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022420
   Evolution0Id: 10224200
   Evolution1Id: 10224201
@@ -1718,6 +1866,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022421
   Evolution0Id: 10224210
   Evolution1Id: 10224211
@@ -1738,6 +1888,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022501
   Evolution0Id: 10225010
   Evolution1Id: 10225011
@@ -1758,6 +1910,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022502
   Evolution0Id: 10225020
   Evolution1Id: 10225021
@@ -1778,6 +1932,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022503
   Evolution0Id: 10225030
   Evolution1Id: 10225031
@@ -1798,6 +1954,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022504
   Evolution0Id: 10225040
   Evolution1Id: 10225041
@@ -1818,6 +1976,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022505
   Evolution0Id: 10225050
   Evolution1Id: 10225051
@@ -1838,6 +1998,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022506
   Evolution0Id: 10225060
   Evolution1Id: 10225061
@@ -1858,6 +2020,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022507
   Evolution0Id: 10225070
   Evolution1Id: 10225071
@@ -1878,6 +2042,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022508
   Evolution0Id: 10225080
   Evolution1Id: 10225081
@@ -1898,6 +2064,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022509
   Evolution0Id: 10225090
   Evolution1Id: 10225091
@@ -1918,6 +2086,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022510
   Evolution0Id: 10225100
   Evolution1Id: 10225101
@@ -1938,6 +2108,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022511
   Evolution0Id: 10225110
   Evolution1Id: 10225111
@@ -1958,6 +2130,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022512
   Evolution0Id: 10225120
   Evolution1Id: 10225121
@@ -1978,6 +2152,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022513
   Evolution0Id: 10225130
   Evolution1Id: 10225131
@@ -1998,6 +2174,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022514
   Evolution0Id: 10225140
   Evolution1Id: 10225141
@@ -2018,6 +2196,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022515
   Evolution0Id: 10225150
   Evolution1Id: 10225151
@@ -2038,6 +2218,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022516
   Evolution0Id: 10225160
   Evolution1Id: 10225161
@@ -2058,6 +2240,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022517
   Evolution0Id: 10225170
   Evolution1Id: 10225171
@@ -2078,6 +2262,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022518
   Evolution0Id: 10225180
   Evolution1Id: 10225181
@@ -2098,6 +2284,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022519
   Evolution0Id: 10225190
   Evolution1Id: 10225191
@@ -2118,6 +2306,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022520
   Evolution0Id: 10225200
   Evolution1Id: 10225201
@@ -2138,6 +2328,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022521
   Evolution0Id: 10225210
   Evolution1Id: 10225211
@@ -2158,6 +2350,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022522
   Evolution0Id: 10225220
   Evolution1Id: 10225221
@@ -2178,6 +2372,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022523
   Evolution0Id: 10225230
   Evolution1Id: 10225231
@@ -2198,6 +2394,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022524
   Evolution0Id: 10225240
   Evolution1Id: 10225241
@@ -2218,6 +2416,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022525
   Evolution0Id: 10225250
   Evolution1Id: 10225251
@@ -2238,6 +2438,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022526
   Evolution0Id: 10225260
   Evolution1Id: 10225261
@@ -2258,6 +2460,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022527
   Evolution0Id: 10225270
   Evolution1Id: 10225271
@@ -2278,6 +2482,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022701
   Evolution0Id: 0
   Evolution1Id: 10227011
@@ -2298,6 +2504,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022702
   Evolution0Id: 0
   Evolution1Id: 10227021
@@ -2318,26 +2526,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
-- Id: 1022703
-  Evolution0Id: 0
-  Evolution1Id: 10227031
-  Evolution2Id: 10227032
-  ObtainFanLvPt: 2000
-  Evolution1FanLvPt: 0
-  Evolution2FanLvPt: 2000
-  LimitBreak1FanLvPt: 2000
-  LimitBreak2FanLvPt: 2000
-  LimitBreak3FanLvPt: 2000
-  LimitBreak4FanLvPt: 2000
-  LimitedType: 0
-  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
-  Evolution3Id: 10227033
-  Evolution4Id: 10227034
-  Evolution3FanLvPt: 800
-  Evolution4FanLvPt: 800
-  Evolution3RequiredFanLv: 120
-  Evolution4RequiredFanLv: 140
-  StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022801
   Evolution0Id: 0
   Evolution1Id: 10228011
@@ -2358,6 +2548,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022802
   Evolution0Id: 0
   Evolution1Id: 10228021
@@ -2378,6 +2570,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1022901
   Evolution0Id: 0
   Evolution1Id: 10229011
@@ -2398,6 +2592,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023301
   Evolution0Id: 10233010
   Evolution1Id: 10233011
@@ -2418,6 +2614,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023302
   Evolution0Id: 10233020
   Evolution1Id: 10233021
@@ -2438,6 +2636,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023303
   Evolution0Id: 10233030
   Evolution1Id: 10233031
@@ -2458,6 +2658,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023304
   Evolution0Id: 10233040
   Evolution1Id: 10233041
@@ -2478,6 +2680,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023401
   Evolution0Id: 10234010
   Evolution1Id: 10234011
@@ -2498,6 +2702,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023402
   Evolution0Id: 10234020
   Evolution1Id: 10234021
@@ -2518,6 +2724,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023403
   Evolution0Id: 10234030
   Evolution1Id: 10234031
@@ -2538,6 +2746,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023404
   Evolution0Id: 10234040
   Evolution1Id: 10234041
@@ -2558,6 +2768,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023405
   Evolution0Id: 10234050
   Evolution1Id: 10234051
@@ -2578,6 +2790,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023406
   Evolution0Id: 10234060
   Evolution1Id: 10234061
@@ -2598,6 +2812,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023407
   Evolution0Id: 10234070
   Evolution1Id: 10234071
@@ -2618,6 +2834,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023408
   Evolution0Id: 10234080
   Evolution1Id: 10234081
@@ -2638,6 +2856,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023409
   Evolution0Id: 10234090
   Evolution1Id: 10234091
@@ -2658,6 +2878,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023410
   Evolution0Id: 10234100
   Evolution1Id: 10234101
@@ -2678,6 +2900,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023411
   Evolution0Id: 10234110
   Evolution1Id: 10234111
@@ -2698,6 +2922,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023412
   Evolution0Id: 10234120
   Evolution1Id: 10234121
@@ -2718,6 +2944,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023413
   Evolution0Id: 10234130
   Evolution1Id: 10234131
@@ -2738,6 +2966,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023414
   Evolution0Id: 10234140
   Evolution1Id: 10234141
@@ -2758,6 +2988,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023501
   Evolution0Id: 10235010
   Evolution1Id: 10235011
@@ -2778,6 +3010,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023502
   Evolution0Id: 10235020
   Evolution1Id: 10235021
@@ -2798,6 +3032,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023503
   Evolution0Id: 10235030
   Evolution1Id: 10235031
@@ -2818,6 +3054,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023504
   Evolution0Id: 10235040
   Evolution1Id: 10235041
@@ -2838,6 +3076,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023505
   Evolution0Id: 10235050
   Evolution1Id: 10235051
@@ -2858,6 +3098,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023506
   Evolution0Id: 10235060
   Evolution1Id: 10235061
@@ -2878,6 +3120,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023507
   Evolution0Id: 10235070
   Evolution1Id: 10235071
@@ -2898,6 +3142,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023508
   Evolution0Id: 10235080
   Evolution1Id: 10235081
@@ -2918,6 +3164,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023509
   Evolution0Id: 10235090
   Evolution1Id: 10235091
@@ -2938,6 +3186,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023510
   Evolution0Id: 10235100
   Evolution1Id: 10235101
@@ -2958,6 +3208,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023511
   Evolution0Id: 10235110
   Evolution1Id: 10235111
@@ -2978,6 +3230,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023512
   Evolution0Id: 10235120
   Evolution1Id: 10235121
@@ -2998,6 +3252,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023513
   Evolution0Id: 10235130
   Evolution1Id: 10235131
@@ -3018,6 +3274,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023514
   Evolution0Id: 10235140
   Evolution1Id: 10235141
@@ -3038,6 +3296,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023515
   Evolution0Id: 10235150
   Evolution1Id: 10235151
@@ -3058,6 +3318,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023516
   Evolution0Id: 10235160
   Evolution1Id: 10235161
@@ -3078,6 +3340,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023517
   Evolution0Id: 10235170
   Evolution1Id: 10235171
@@ -3098,6 +3362,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023518
   Evolution0Id: 10235180
   Evolution1Id: 10235181
@@ -3118,6 +3384,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023519
   Evolution0Id: 10235190
   Evolution1Id: 10235191
@@ -3138,6 +3406,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023520
   Evolution0Id: 10235200
   Evolution1Id: 10235201
@@ -3158,6 +3428,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023521
   Evolution0Id: 10235210
   Evolution1Id: 10235211
@@ -3178,6 +3450,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023522
   Evolution0Id: 10235220
   Evolution1Id: 10235221
@@ -3198,6 +3472,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023523
   Evolution0Id: 10235230
   Evolution1Id: 10235231
@@ -3218,6 +3494,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023524
   Evolution0Id: 10235240
   Evolution1Id: 10235241
@@ -3238,6 +3516,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023701
   Evolution0Id: 0
   Evolution1Id: 10237011
@@ -3258,6 +3538,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023702
   Evolution0Id: 0
   Evolution1Id: 10237021
@@ -3278,26 +3560,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
-- Id: 1023703
-  Evolution0Id: 0
-  Evolution1Id: 10237031
-  Evolution2Id: 10237032
-  ObtainFanLvPt: 2000
-  Evolution1FanLvPt: 0
-  Evolution2FanLvPt: 2000
-  LimitBreak1FanLvPt: 2000
-  LimitBreak2FanLvPt: 2000
-  LimitBreak3FanLvPt: 2000
-  LimitBreak4FanLvPt: 2000
-  LimitedType: 0
-  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
-  Evolution3Id: 10237033
-  Evolution4Id: 10237034
-  Evolution3FanLvPt: 800
-  Evolution4FanLvPt: 800
-  Evolution3RequiredFanLv: 120
-  Evolution4RequiredFanLv: 140
-  StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023801
   Evolution0Id: 0
   Evolution1Id: 10238011
@@ -3318,6 +3582,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023802
   Evolution0Id: 0
   Evolution1Id: 10238021
@@ -3338,6 +3604,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1023901
   Evolution0Id: 0
   Evolution1Id: 10239011
@@ -3358,26 +3626,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
-- Id: 1030501
-  Evolution0Id: 10305010
-  Evolution1Id: 10305011
-  Evolution2Id: 10305012
-  ObtainFanLvPt: 0
-  Evolution1FanLvPt: 0
-  Evolution2FanLvPt: 0
-  LimitBreak1FanLvPt: 0
-  LimitBreak2FanLvPt: 0
-  LimitBreak3FanLvPt: 0
-  LimitBreak4FanLvPt: 0
-  LimitedType: 5
-  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
-  Evolution3Id: 10305013
-  Evolution4Id: 10305014
-  Evolution3FanLvPt: 0
-  Evolution4FanLvPt: 0
-  Evolution3RequiredFanLv: 0
-  Evolution4RequiredFanLv: 0
-  StyleSettingType: 2
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031301
   Evolution0Id: 10313010
   Evolution1Id: 10313011
@@ -3398,6 +3648,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031302
   Evolution0Id: 10313020
   Evolution1Id: 10313021
@@ -3418,6 +3670,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031303
   Evolution0Id: 10313030
   Evolution1Id: 10313031
@@ -3438,6 +3692,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031304
   Evolution0Id: 10313040
   Evolution1Id: 10313041
@@ -3458,6 +3714,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031305
   Evolution0Id: 10313050
   Evolution1Id: 10313051
@@ -3478,6 +3736,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031306
   Evolution0Id: 10313060
   Evolution1Id: 10313061
@@ -3498,6 +3758,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031401
   Evolution0Id: 10314010
   Evolution1Id: 10314011
@@ -3518,6 +3780,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031402
   Evolution0Id: 10314020
   Evolution1Id: 10314021
@@ -3538,6 +3802,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031403
   Evolution0Id: 10314030
   Evolution1Id: 10314031
@@ -3558,6 +3824,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031404
   Evolution0Id: 10314040
   Evolution1Id: 10314041
@@ -3578,6 +3846,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031405
   Evolution0Id: 10314050
   Evolution1Id: 10314051
@@ -3598,6 +3868,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031406
   Evolution0Id: 10314060
   Evolution1Id: 10314061
@@ -3618,6 +3890,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031407
   Evolution0Id: 10314070
   Evolution1Id: 10314071
@@ -3638,6 +3912,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031408
   Evolution0Id: 10314080
   Evolution1Id: 10314081
@@ -3658,6 +3934,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031409
   Evolution0Id: 10314090
   Evolution1Id: 10314091
@@ -3678,6 +3956,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031410
   Evolution0Id: 10314100
   Evolution1Id: 10314101
@@ -3698,6 +3978,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031411
   Evolution0Id: 10314110
   Evolution1Id: 10314111
@@ -3718,6 +4000,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031412
   Evolution0Id: 10314120
   Evolution1Id: 10314121
@@ -3738,6 +4022,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031413
   Evolution0Id: 10314130
   Evolution1Id: 10314131
@@ -3758,6 +4044,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031414
   Evolution0Id: 10314140
   Evolution1Id: 10314141
@@ -3778,6 +4066,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031415
   Evolution0Id: 10314150
   Evolution1Id: 10314151
@@ -3798,6 +4088,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031416
   Evolution0Id: 10314160
   Evolution1Id: 10314161
@@ -3818,6 +4110,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031417
   Evolution0Id: 10314170
   Evolution1Id: 10314171
@@ -3838,6 +4132,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031418
   Evolution0Id: 10314180
   Evolution1Id: 10314181
@@ -3858,6 +4154,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031419
   Evolution0Id: 10314190
   Evolution1Id: 10314191
@@ -3878,6 +4176,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031420
   Evolution0Id: 10314200
   Evolution1Id: 10314201
@@ -3898,6 +4198,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031421
   Evolution0Id: 10314210
   Evolution1Id: 10314211
@@ -3918,6 +4220,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031422
   Evolution0Id: 10314220
   Evolution1Id: 10314221
@@ -3938,6 +4242,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031501
   Evolution0Id: 10315010
   Evolution1Id: 10315011
@@ -3958,6 +4264,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031502
   Evolution0Id: 10315020
   Evolution1Id: 10315021
@@ -3978,6 +4286,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031503
   Evolution0Id: 10315030
   Evolution1Id: 10315031
@@ -3998,6 +4308,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031504
   Evolution0Id: 10315040
   Evolution1Id: 10315041
@@ -4018,6 +4330,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031505
   Evolution0Id: 10315050
   Evolution1Id: 10315051
@@ -4038,6 +4352,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031506
   Evolution0Id: 10315060
   Evolution1Id: 10315061
@@ -4058,6 +4374,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031507
   Evolution0Id: 10315070
   Evolution1Id: 10315071
@@ -4078,6 +4396,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031508
   Evolution0Id: 10315080
   Evolution1Id: 10315081
@@ -4098,6 +4418,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031509
   Evolution0Id: 10315090
   Evolution1Id: 10315091
@@ -4118,6 +4440,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031510
   Evolution0Id: 10315100
   Evolution1Id: 10315101
@@ -4138,6 +4462,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031511
   Evolution0Id: 10315110
   Evolution1Id: 10315111
@@ -4158,6 +4484,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031512
   Evolution0Id: 10315120
   Evolution1Id: 10315121
@@ -4178,6 +4506,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031513
   Evolution0Id: 10315130
   Evolution1Id: 10315131
@@ -4198,6 +4528,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031514
   Evolution0Id: 10315140
   Evolution1Id: 10315141
@@ -4218,6 +4550,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031515
   Evolution0Id: 10315150
   Evolution1Id: 10315151
@@ -4238,6 +4572,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031516
   Evolution0Id: 10315160
   Evolution1Id: 10315161
@@ -4258,6 +4594,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031517
   Evolution0Id: 10315170
   Evolution1Id: 10315171
@@ -4278,6 +4616,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031518
   Evolution0Id: 0
   Evolution1Id: 10315181
@@ -4298,6 +4638,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031519
   Evolution0Id: 10315190
   Evolution1Id: 10315191
@@ -4318,6 +4660,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031520
   Evolution0Id: 10315200
   Evolution1Id: 10315201
@@ -4338,6 +4682,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031521
   Evolution0Id: 10315210
   Evolution1Id: 10315211
@@ -4358,6 +4704,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031522
   Evolution0Id: 10315220
   Evolution1Id: 10315221
@@ -4378,6 +4726,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031523
   Evolution0Id: 10315230
   Evolution1Id: 10315231
@@ -4398,6 +4748,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031524
   Evolution0Id: 10315240
   Evolution1Id: 10315241
@@ -4418,6 +4770,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031525
   Evolution0Id: 10315250
   Evolution1Id: 10315251
@@ -4438,6 +4792,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031526
   Evolution0Id: 10315260
   Evolution1Id: 10315261
@@ -4458,6 +4814,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031527
   Evolution0Id: 10315270
   Evolution1Id: 10315271
@@ -4478,6 +4836,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031528
   Evolution0Id: 10315280
   Evolution1Id: 10315281
@@ -4498,6 +4858,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031529
   Evolution0Id: 10315290
   Evolution1Id: 10315291
@@ -4518,6 +4880,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031530
   Evolution0Id: 10315300
   Evolution1Id: 10315301
@@ -4538,6 +4902,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031531
   Evolution0Id: 10315310
   Evolution1Id: 10315311
@@ -4558,6 +4924,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031532
   Evolution0Id: 10315320
   Evolution1Id: 10315321
@@ -4578,6 +4946,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031533
   Evolution0Id: 10315330
   Evolution1Id: 10315331
@@ -4598,6 +4968,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031534
   Evolution0Id: 10315340
   Evolution1Id: 10315341
@@ -4618,6 +4990,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031535
   Evolution0Id: 10315350
   Evolution1Id: 10315351
@@ -4638,6 +5012,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031536
   Evolution0Id: 10315360
   Evolution1Id: 10315361
@@ -4658,6 +5034,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031537
   Evolution0Id: 10315370
   Evolution1Id: 10315371
@@ -4678,6 +5056,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031538
   Evolution0Id: 10315380
   Evolution1Id: 10315381
@@ -4698,26 +5078,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
-- Id: 1031539
-  Evolution0Id: 10315390
-  Evolution1Id: 10315391
-  Evolution2Id: 10315392
-  ObtainFanLvPt: 400
-  Evolution1FanLvPt: 240
-  Evolution2FanLvPt: 160
-  LimitBreak1FanLvPt: 400
-  LimitBreak2FanLvPt: 400
-  LimitBreak3FanLvPt: 400
-  LimitBreak4FanLvPt: 400
-  LimitedType: 5
-  SideStyleSettingCharacterId: ""
-  Evolution3Id: 10315393
-  Evolution4Id: 10315394
-  Evolution3FanLvPt: 160
-  Evolution4FanLvPt: 160
-  Evolution3RequiredFanLv: 25
-  Evolution4RequiredFanLv: 50
-  StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031801
   Evolution0Id: 0
   Evolution1Id: 10318011
@@ -4738,6 +5100,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031802
   Evolution0Id: 0
   Evolution1Id: 10318021
@@ -4758,6 +5122,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031803
   Evolution0Id: 0
   Evolution1Id: 10318031
@@ -4778,6 +5144,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031901
   Evolution0Id: 0
   Evolution1Id: 10319011
@@ -4798,6 +5166,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1031902
   Evolution0Id: 0
   Evolution1Id: 10319021
@@ -4818,6 +5188,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032301
   Evolution0Id: 10323010
   Evolution1Id: 10323011
@@ -4838,6 +5210,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032302
   Evolution0Id: 10323020
   Evolution1Id: 10323021
@@ -4858,6 +5232,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032303
   Evolution0Id: 10323030
   Evolution1Id: 10323031
@@ -4878,6 +5254,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032304
   Evolution0Id: 10323040
   Evolution1Id: 10323041
@@ -4898,6 +5276,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032305
   Evolution0Id: 10323050
   Evolution1Id: 10323051
@@ -4918,6 +5298,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032306
   Evolution0Id: 10323060
   Evolution1Id: 10323061
@@ -4938,6 +5320,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032401
   Evolution0Id: 10324010
   Evolution1Id: 10324011
@@ -4958,6 +5342,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032402
   Evolution0Id: 10324020
   Evolution1Id: 10324021
@@ -4978,6 +5364,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032403
   Evolution0Id: 10324030
   Evolution1Id: 10324031
@@ -4998,6 +5386,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032404
   Evolution0Id: 10324040
   Evolution1Id: 10324041
@@ -5018,6 +5408,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032405
   Evolution0Id: 10324050
   Evolution1Id: 10324051
@@ -5038,6 +5430,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032406
   Evolution0Id: 10324060
   Evolution1Id: 10324061
@@ -5058,6 +5452,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032407
   Evolution0Id: 10324070
   Evolution1Id: 10324071
@@ -5078,6 +5474,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032408
   Evolution0Id: 10324080
   Evolution1Id: 10324081
@@ -5098,6 +5496,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032409
   Evolution0Id: 10324090
   Evolution1Id: 10324091
@@ -5118,6 +5518,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032410
   Evolution0Id: 10324100
   Evolution1Id: 10324101
@@ -5138,6 +5540,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032411
   Evolution0Id: 10324110
   Evolution1Id: 10324111
@@ -5158,6 +5562,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032412
   Evolution0Id: 10324120
   Evolution1Id: 10324121
@@ -5178,6 +5584,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032413
   Evolution0Id: 10324130
   Evolution1Id: 10324131
@@ -5198,6 +5606,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032414
   Evolution0Id: 10324140
   Evolution1Id: 10324141
@@ -5218,6 +5628,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032415
   Evolution0Id: 10324150
   Evolution1Id: 10324151
@@ -5238,6 +5650,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032416
   Evolution0Id: 10324160
   Evolution1Id: 10324161
@@ -5258,6 +5672,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032417
   Evolution0Id: 10324170
   Evolution1Id: 10324171
@@ -5278,6 +5694,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032418
   Evolution0Id: 10324180
   Evolution1Id: 10324181
@@ -5298,6 +5716,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032419
   Evolution0Id: 10324190
   Evolution1Id: 10324191
@@ -5318,6 +5738,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032420
   Evolution0Id: 10324200
   Evolution1Id: 10324201
@@ -5338,6 +5760,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032421
   Evolution0Id: 10324210
   Evolution1Id: 10324211
@@ -5358,6 +5782,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032422
   Evolution0Id: 10324220
   Evolution1Id: 10324221
@@ -5378,6 +5804,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032423
   Evolution0Id: 10324230
   Evolution1Id: 10324231
@@ -5398,6 +5826,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032424
   Evolution0Id: 10324240
   Evolution1Id: 10324241
@@ -5418,6 +5848,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032501
   Evolution0Id: 10325010
   Evolution1Id: 10325011
@@ -5438,6 +5870,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032502
   Evolution0Id: 10325020
   Evolution1Id: 10325021
@@ -5458,6 +5892,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032503
   Evolution0Id: 10325030
   Evolution1Id: 10325031
@@ -5478,6 +5914,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032504
   Evolution0Id: 10325040
   Evolution1Id: 10325041
@@ -5498,6 +5936,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032505
   Evolution0Id: 10325050
   Evolution1Id: 10325051
@@ -5518,6 +5958,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032506
   Evolution0Id: 10325060
   Evolution1Id: 10325061
@@ -5538,6 +5980,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032507
   Evolution0Id: 10325070
   Evolution1Id: 10325071
@@ -5558,6 +6002,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032508
   Evolution0Id: 10325080
   Evolution1Id: 10325081
@@ -5578,6 +6024,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032509
   Evolution0Id: 10325090
   Evolution1Id: 10325091
@@ -5598,6 +6046,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032510
   Evolution0Id: 10325100
   Evolution1Id: 10325101
@@ -5618,6 +6068,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032511
   Evolution0Id: 10325110
   Evolution1Id: 10325111
@@ -5638,6 +6090,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032512
   Evolution0Id: 10325120
   Evolution1Id: 10325121
@@ -5658,6 +6112,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032513
   Evolution0Id: 10325130
   Evolution1Id: 10325131
@@ -5678,6 +6134,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032514
   Evolution0Id: 10325140
   Evolution1Id: 10325141
@@ -5698,6 +6156,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032515
   Evolution0Id: 10325150
   Evolution1Id: 10325151
@@ -5718,6 +6178,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032516
   Evolution0Id: 10325160
   Evolution1Id: 10325161
@@ -5738,6 +6200,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032517
   Evolution0Id: 10325170
   Evolution1Id: 10325171
@@ -5758,6 +6222,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032518
   Evolution0Id: 10325180
   Evolution1Id: 10325181
@@ -5778,6 +6244,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032519
   Evolution0Id: 10325190
   Evolution1Id: 10325191
@@ -5798,6 +6266,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032520
   Evolution0Id: 10325200
   Evolution1Id: 10325201
@@ -5818,6 +6288,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032521
   Evolution0Id: 10325210
   Evolution1Id: 10325211
@@ -5838,6 +6310,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032522
   Evolution0Id: 10325220
   Evolution1Id: 10325221
@@ -5858,6 +6332,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032523
   Evolution0Id: 10325230
   Evolution1Id: 10325231
@@ -5878,6 +6354,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032524
   Evolution0Id: 10325240
   Evolution1Id: 10325241
@@ -5898,6 +6376,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032525
   Evolution0Id: 10325250
   Evolution1Id: 10325251
@@ -5918,6 +6398,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032526
   Evolution0Id: 10325260
   Evolution1Id: 10325261
@@ -5938,6 +6420,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032527
   Evolution0Id: 10325270
   Evolution1Id: 10325271
@@ -5958,6 +6442,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032528
   Evolution0Id: 10325280
   Evolution1Id: 10325281
@@ -5978,6 +6464,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032529
   Evolution0Id: 10325290
   Evolution1Id: 10325291
@@ -5998,6 +6486,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032530
   Evolution0Id: 10325300
   Evolution1Id: 10325301
@@ -6018,6 +6508,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032531
   Evolution0Id: 10325310
   Evolution1Id: 10325311
@@ -6038,6 +6530,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032532
   Evolution0Id: 10325320
   Evolution1Id: 10325321
@@ -6058,6 +6552,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032533
   Evolution0Id: 10325330
   Evolution1Id: 10325331
@@ -6078,6 +6574,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032534
   Evolution0Id: 10325340
   Evolution1Id: 10325341
@@ -6098,6 +6596,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032535
   Evolution0Id: 10325350
   Evolution1Id: 10325351
@@ -6118,6 +6618,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032536
   Evolution0Id: 10325360
   Evolution1Id: 10325361
@@ -6138,26 +6640,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
-- Id: 1032537
-  Evolution0Id: 10325370
-  Evolution1Id: 10325371
-  Evolution2Id: 10325372
-  ObtainFanLvPt: 400
-  Evolution1FanLvPt: 240
-  Evolution2FanLvPt: 160
-  LimitBreak1FanLvPt: 400
-  LimitBreak2FanLvPt: 400
-  LimitBreak3FanLvPt: 400
-  LimitBreak4FanLvPt: 400
-  LimitedType: 5
-  SideStyleSettingCharacterId: ""
-  Evolution3Id: 10325373
-  Evolution4Id: 10325374
-  Evolution3FanLvPt: 160
-  Evolution4FanLvPt: 160
-  Evolution3RequiredFanLv: 25
-  Evolution4RequiredFanLv: 50
-  StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032801
   Evolution0Id: 0
   Evolution1Id: 10328011
@@ -6178,6 +6662,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032802
   Evolution0Id: 0
   Evolution1Id: 10328021
@@ -6198,6 +6684,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032803
   Evolution0Id: 0
   Evolution1Id: 10328031
@@ -6218,6 +6706,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032901
   Evolution0Id: 0
   Evolution1Id: 10329011
@@ -6238,6 +6728,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1032902
   Evolution0Id: 0
   Evolution1Id: 10329021
@@ -6258,6 +6750,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033301
   Evolution0Id: 10333010
   Evolution1Id: 10333011
@@ -6278,6 +6772,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033302
   Evolution0Id: 10333020
   Evolution1Id: 10333021
@@ -6298,6 +6794,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033303
   Evolution0Id: 10333030
   Evolution1Id: 10333031
@@ -6318,6 +6816,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033304
   Evolution0Id: 10333040
   Evolution1Id: 10333041
@@ -6338,6 +6838,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033305
   Evolution0Id: 10333050
   Evolution1Id: 10333051
@@ -6358,6 +6860,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033306
   Evolution0Id: 10333060
   Evolution1Id: 10333061
@@ -6378,6 +6882,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033401
   Evolution0Id: 10334010
   Evolution1Id: 10334011
@@ -6398,6 +6904,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033402
   Evolution0Id: 10334020
   Evolution1Id: 10334021
@@ -6418,6 +6926,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033403
   Evolution0Id: 10334030
   Evolution1Id: 10334031
@@ -6438,6 +6948,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033404
   Evolution0Id: 10334040
   Evolution1Id: 10334041
@@ -6458,6 +6970,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033405
   Evolution0Id: 10334050
   Evolution1Id: 10334051
@@ -6478,6 +6992,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033406
   Evolution0Id: 10334060
   Evolution1Id: 10334061
@@ -6498,6 +7014,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033407
   Evolution0Id: 10334070
   Evolution1Id: 10334071
@@ -6518,6 +7036,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033408
   Evolution0Id: 10334080
   Evolution1Id: 10334081
@@ -6538,6 +7058,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033409
   Evolution0Id: 10334090
   Evolution1Id: 10334091
@@ -6558,6 +7080,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033410
   Evolution0Id: 10334100
   Evolution1Id: 10334101
@@ -6578,6 +7102,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033411
   Evolution0Id: 10334110
   Evolution1Id: 10334111
@@ -6598,6 +7124,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033412
   Evolution0Id: 10334120
   Evolution1Id: 10334121
@@ -6618,6 +7146,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033413
   Evolution0Id: 10334130
   Evolution1Id: 10334131
@@ -6638,6 +7168,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033414
   Evolution0Id: 10334140
   Evolution1Id: 10334141
@@ -6658,6 +7190,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033415
   Evolution0Id: 10334150
   Evolution1Id: 10334151
@@ -6678,6 +7212,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033416
   Evolution0Id: 10334160
   Evolution1Id: 10334161
@@ -6698,6 +7234,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033417
   Evolution0Id: 10334170
   Evolution1Id: 10334171
@@ -6718,6 +7256,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033501
   Evolution0Id: 10335010
   Evolution1Id: 10335011
@@ -6738,6 +7278,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033502
   Evolution0Id: 10335020
   Evolution1Id: 10335021
@@ -6758,6 +7300,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033503
   Evolution0Id: 10335030
   Evolution1Id: 10335031
@@ -6778,6 +7322,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033504
   Evolution0Id: 10335040
   Evolution1Id: 10335041
@@ -6798,6 +7344,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033505
   Evolution0Id: 10335050
   Evolution1Id: 10335051
@@ -6818,6 +7366,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033506
   Evolution0Id: 10335060
   Evolution1Id: 10335061
@@ -6838,6 +7388,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033507
   Evolution0Id: 10335070
   Evolution1Id: 10335071
@@ -6858,6 +7410,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033508
   Evolution0Id: 10335080
   Evolution1Id: 10335081
@@ -6878,6 +7432,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033509
   Evolution0Id: 10335090
   Evolution1Id: 10335091
@@ -6898,6 +7454,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033510
   Evolution0Id: 10335100
   Evolution1Id: 10335101
@@ -6918,6 +7476,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033511
   Evolution0Id: 10335110
   Evolution1Id: 10335111
@@ -6938,6 +7498,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033512
   Evolution0Id: 10335120
   Evolution1Id: 10335121
@@ -6958,6 +7520,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033513
   Evolution0Id: 10335130
   Evolution1Id: 10335131
@@ -6978,6 +7542,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033514
   Evolution0Id: 10335140
   Evolution1Id: 10335141
@@ -6998,6 +7564,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033515
   Evolution0Id: 10335150
   Evolution1Id: 10335151
@@ -7018,6 +7586,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033516
   Evolution0Id: 10335160
   Evolution1Id: 10335161
@@ -7038,6 +7608,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033517
   Evolution0Id: 10335170
   Evolution1Id: 10335171
@@ -7058,6 +7630,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033518
   Evolution0Id: 10335180
   Evolution1Id: 10335181
@@ -7078,6 +7652,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033519
   Evolution0Id: 10335190
   Evolution1Id: 10335191
@@ -7098,6 +7674,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033520
   Evolution0Id: 10335200
   Evolution1Id: 10335201
@@ -7118,6 +7696,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033521
   Evolution0Id: 10335210
   Evolution1Id: 10335211
@@ -7138,6 +7718,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033522
   Evolution0Id: 10335220
   Evolution1Id: 10335221
@@ -7158,6 +7740,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033523
   Evolution0Id: 10335230
   Evolution1Id: 10335231
@@ -7178,6 +7762,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033524
   Evolution0Id: 10335240
   Evolution1Id: 10335241
@@ -7198,6 +7784,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033525
   Evolution0Id: 10335250
   Evolution1Id: 10335251
@@ -7218,6 +7806,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033526
   Evolution0Id: 10335260
   Evolution1Id: 10335261
@@ -7238,6 +7828,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033527
   Evolution0Id: 10335270
   Evolution1Id: 10335271
@@ -7258,6 +7850,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033528
   Evolution0Id: 10335280
   Evolution1Id: 10335281
@@ -7278,6 +7872,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033529
   Evolution0Id: 10335290
   Evolution1Id: 10335291
@@ -7298,6 +7894,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033530
   Evolution0Id: 10335300
   Evolution1Id: 10335301
@@ -7318,6 +7916,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033531
   Evolution0Id: 10335310
   Evolution1Id: 10335311
@@ -7338,6 +7938,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033532
   Evolution0Id: 10335320
   Evolution1Id: 10335321
@@ -7358,6 +7960,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033533
   Evolution0Id: 10335330
   Evolution1Id: 10335331
@@ -7378,6 +7982,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033534
   Evolution0Id: 0
   Evolution1Id: 10335341
@@ -7398,6 +8004,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033535
   Evolution0Id: 10335350
   Evolution1Id: 10335351
@@ -7418,26 +8026,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
-- Id: 1033536
-  Evolution0Id: 10335360
-  Evolution1Id: 10335361
-  Evolution2Id: 10335362
-  ObtainFanLvPt: 400
-  Evolution1FanLvPt: 240
-  Evolution2FanLvPt: 160
-  LimitBreak1FanLvPt: 400
-  LimitBreak2FanLvPt: 400
-  LimitBreak3FanLvPt: 400
-  LimitBreak4FanLvPt: 400
-  LimitedType: 5
-  SideStyleSettingCharacterId: ""
-  Evolution3Id: 10335363
-  Evolution4Id: 10335364
-  Evolution3FanLvPt: 160
-  Evolution4FanLvPt: 160
-  Evolution3RequiredFanLv: 25
-  Evolution4RequiredFanLv: 50
-  StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033801
   Evolution0Id: 0
   Evolution1Id: 10338011
@@ -7458,6 +8048,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033802
   Evolution0Id: 0
   Evolution1Id: 10338021
@@ -7478,6 +8070,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033803
   Evolution0Id: 0
   Evolution1Id: 10338031
@@ -7498,6 +8092,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033901
   Evolution0Id: 0
   Evolution1Id: 10339011
@@ -7518,6 +8114,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1033902
   Evolution0Id: 0
   Evolution1Id: 10339021
@@ -7538,6 +8136,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041301
   Evolution0Id: 10413010
   Evolution1Id: 10413011
@@ -7558,6 +8158,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041302
   Evolution0Id: 10413020
   Evolution1Id: 10413021
@@ -7578,6 +8180,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041303
   Evolution0Id: 10413030
   Evolution1Id: 10413031
@@ -7598,6 +8202,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041304
   Evolution0Id: 10413040
   Evolution1Id: 10413041
@@ -7618,6 +8224,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041401
   Evolution0Id: 10414010
   Evolution1Id: 10414011
@@ -7638,6 +8246,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041402
   Evolution0Id: 10414020
   Evolution1Id: 10414021
@@ -7658,6 +8268,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041403
   Evolution0Id: 10414030
   Evolution1Id: 10414031
@@ -7678,6 +8290,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041404
   Evolution0Id: 10414040
   Evolution1Id: 10414041
@@ -7698,6 +8312,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041405
   Evolution0Id: 10414050
   Evolution1Id: 10414051
@@ -7718,6 +8334,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041406
   Evolution0Id: 10414060
   Evolution1Id: 10414061
@@ -7738,6 +8356,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041501
   Evolution0Id: 10415010
   Evolution1Id: 10415011
@@ -7758,6 +8378,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041502
   Evolution0Id: 10415020
   Evolution1Id: 10415021
@@ -7778,6 +8400,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041503
   Evolution0Id: 10415030
   Evolution1Id: 10415031
@@ -7798,6 +8422,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041504
   Evolution0Id: 10415040
   Evolution1Id: 10415041
@@ -7818,6 +8444,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041505
   Evolution0Id: 10415050
   Evolution1Id: 10415051
@@ -7838,6 +8466,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041506
   Evolution0Id: 10415060
   Evolution1Id: 10415061
@@ -7858,6 +8488,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041507
   Evolution0Id: 10415070
   Evolution1Id: 10415071
@@ -7878,6 +8510,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041508
   Evolution0Id: 10415080
   Evolution1Id: 10415081
@@ -7898,6 +8532,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041509
   Evolution0Id: 10415090
   Evolution1Id: 10415091
@@ -7918,6 +8554,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041510
   Evolution0Id: 10415100
   Evolution1Id: 10415101
@@ -7938,6 +8576,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041511
   Evolution0Id: 10415110
   Evolution1Id: 10415111
@@ -7958,6 +8598,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041512
   Evolution0Id: 10415120
   Evolution1Id: 10415121
@@ -7978,6 +8620,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041513
   Evolution0Id: 10415130
   Evolution1Id: 10415131
@@ -7998,6 +8642,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041514
   Evolution0Id: 10415140
   Evolution1Id: 10415141
@@ -8018,6 +8664,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041515
   Evolution0Id: 10415150
   Evolution1Id: 10415151
@@ -8038,6 +8686,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041516
   Evolution0Id: 10415160
   Evolution1Id: 10415161
@@ -8058,6 +8708,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041517
   Evolution0Id: 10415170
   Evolution1Id: 10415171
@@ -8078,6 +8730,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041518
   Evolution0Id: 10415180
   Evolution1Id: 10415181
@@ -8098,6 +8752,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041519
   Evolution0Id: 10415190
   Evolution1Id: 10415191
@@ -8118,6 +8774,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041520
   Evolution0Id: 10415200
   Evolution1Id: 10415201
@@ -8138,6 +8796,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041521
   Evolution0Id: 0
   Evolution1Id: 10415211
@@ -8158,6 +8818,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041522
   Evolution0Id: 10415220
   Evolution1Id: 10415221
@@ -8178,6 +8840,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041523
   Evolution0Id: 10415230
   Evolution1Id: 10415231
@@ -8198,6 +8862,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041801
   Evolution0Id: 0
   Evolution1Id: 10418011
@@ -8218,6 +8884,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041802
   Evolution0Id: 0
   Evolution1Id: 10418021
@@ -8238,6 +8906,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041901
   Evolution0Id: 0
   Evolution1Id: 10419011
@@ -8258,6 +8928,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1041902
   Evolution0Id: 0
   Evolution1Id: 10419021
@@ -8278,6 +8950,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042301
   Evolution0Id: 10423010
   Evolution1Id: 10423011
@@ -8298,6 +8972,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042302
   Evolution0Id: 10423020
   Evolution1Id: 10423021
@@ -8318,6 +8994,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042303
   Evolution0Id: 10423030
   Evolution1Id: 10423031
@@ -8338,6 +9016,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042304
   Evolution0Id: 10423040
   Evolution1Id: 10423041
@@ -8358,6 +9038,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042401
   Evolution0Id: 10424010
   Evolution1Id: 10424011
@@ -8378,6 +9060,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042402
   Evolution0Id: 10424020
   Evolution1Id: 10424021
@@ -8398,6 +9082,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042403
   Evolution0Id: 10424030
   Evolution1Id: 10424031
@@ -8418,6 +9104,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042404
   Evolution0Id: 10424040
   Evolution1Id: 10424041
@@ -8438,6 +9126,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042405
   Evolution0Id: 10424050
   Evolution1Id: 10424051
@@ -8458,6 +9148,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042406
   Evolution0Id: 10424060
   Evolution1Id: 10424061
@@ -8478,6 +9170,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042501
   Evolution0Id: 10425010
   Evolution1Id: 10425011
@@ -8498,6 +9192,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042502
   Evolution0Id: 10425020
   Evolution1Id: 10425021
@@ -8518,6 +9214,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042503
   Evolution0Id: 10425030
   Evolution1Id: 10425031
@@ -8538,6 +9236,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042504
   Evolution0Id: 10425040
   Evolution1Id: 10425041
@@ -8558,6 +9258,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042505
   Evolution0Id: 10425050
   Evolution1Id: 10425051
@@ -8578,6 +9280,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042506
   Evolution0Id: 10425060
   Evolution1Id: 10425061
@@ -8598,6 +9302,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042507
   Evolution0Id: 10425070
   Evolution1Id: 10425071
@@ -8618,6 +9324,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042508
   Evolution0Id: 10425080
   Evolution1Id: 10425081
@@ -8638,6 +9346,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042509
   Evolution0Id: 10425090
   Evolution1Id: 10425091
@@ -8658,6 +9368,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042510
   Evolution0Id: 10425100
   Evolution1Id: 10425101
@@ -8678,6 +9390,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042511
   Evolution0Id: 10425110
   Evolution1Id: 10425111
@@ -8698,6 +9412,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042512
   Evolution0Id: 10425120
   Evolution1Id: 10425121
@@ -8718,6 +9434,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042513
   Evolution0Id: 10425130
   Evolution1Id: 10425131
@@ -8738,6 +9456,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042514
   Evolution0Id: 10425140
   Evolution1Id: 10425141
@@ -8758,6 +9478,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042515
   Evolution0Id: 10425150
   Evolution1Id: 10425151
@@ -8778,6 +9500,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042516
   Evolution0Id: 10425160
   Evolution1Id: 10425161
@@ -8798,6 +9522,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042517
   Evolution0Id: 10425170
   Evolution1Id: 10425171
@@ -8818,6 +9544,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042518
   Evolution0Id: 10425180
   Evolution1Id: 10425181
@@ -8838,6 +9566,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042519
   Evolution0Id: 10425190
   Evolution1Id: 10425191
@@ -8858,6 +9588,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042520
   Evolution0Id: 10425200
   Evolution1Id: 10425201
@@ -8878,6 +9610,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042521
   Evolution0Id: 0
   Evolution1Id: 10425211
@@ -8898,6 +9632,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042522
   Evolution0Id: 10425220
   Evolution1Id: 10425221
@@ -8918,6 +9654,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042523
   Evolution0Id: 10425230
   Evolution1Id: 10425231
@@ -8938,6 +9676,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042524
   Evolution0Id: 10425240
   Evolution1Id: 10425241
@@ -8958,6 +9698,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042801
   Evolution0Id: 0
   Evolution1Id: 10428011
@@ -8978,6 +9720,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042802
   Evolution0Id: 0
   Evolution1Id: 10428021
@@ -8998,6 +9742,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042901
   Evolution0Id: 0
   Evolution1Id: 10429011
@@ -9018,6 +9764,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1042902
   Evolution0Id: 0
   Evolution1Id: 10429021
@@ -9038,6 +9786,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043301
   Evolution0Id: 10433010
   Evolution1Id: 10433011
@@ -9058,6 +9808,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043302
   Evolution0Id: 10433020
   Evolution1Id: 10433021
@@ -9078,6 +9830,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043303
   Evolution0Id: 10433030
   Evolution1Id: 10433031
@@ -9098,6 +9852,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043304
   Evolution0Id: 10433040
   Evolution1Id: 10433041
@@ -9118,6 +9874,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043401
   Evolution0Id: 10434010
   Evolution1Id: 10434011
@@ -9138,6 +9896,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043402
   Evolution0Id: 10434020
   Evolution1Id: 10434021
@@ -9158,6 +9918,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043403
   Evolution0Id: 10434030
   Evolution1Id: 10434031
@@ -9178,6 +9940,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043404
   Evolution0Id: 10434040
   Evolution1Id: 10434041
@@ -9198,6 +9962,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043405
   Evolution0Id: 10434050
   Evolution1Id: 10434051
@@ -9218,6 +9984,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043406
   Evolution0Id: 10434060
   Evolution1Id: 10434061
@@ -9238,6 +10006,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043501
   Evolution0Id: 10435010
   Evolution1Id: 10435011
@@ -9258,6 +10028,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043502
   Evolution0Id: 10435020
   Evolution1Id: 10435021
@@ -9278,6 +10050,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043503
   Evolution0Id: 10435030
   Evolution1Id: 10435031
@@ -9298,6 +10072,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043504
   Evolution0Id: 10435040
   Evolution1Id: 10435041
@@ -9318,6 +10094,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043505
   Evolution0Id: 10435050
   Evolution1Id: 10435051
@@ -9338,6 +10116,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043506
   Evolution0Id: 10435060
   Evolution1Id: 10435061
@@ -9358,6 +10138,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043507
   Evolution0Id: 10435070
   Evolution1Id: 10435071
@@ -9378,6 +10160,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043508
   Evolution0Id: 10435080
   Evolution1Id: 10435081
@@ -9398,6 +10182,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043509
   Evolution0Id: 10435090
   Evolution1Id: 10435091
@@ -9418,6 +10204,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043510
   Evolution0Id: 10435100
   Evolution1Id: 10435101
@@ -9438,6 +10226,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043511
   Evolution0Id: 10435110
   Evolution1Id: 10435111
@@ -9458,6 +10248,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043512
   Evolution0Id: 10435120
   Evolution1Id: 10435121
@@ -9478,6 +10270,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043513
   Evolution0Id: 10435130
   Evolution1Id: 10435131
@@ -9498,6 +10292,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043514
   Evolution0Id: 10435140
   Evolution1Id: 10435141
@@ -9518,6 +10314,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043515
   Evolution0Id: 10435150
   Evolution1Id: 10435151
@@ -9538,6 +10336,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043516
   Evolution0Id: 10435160
   Evolution1Id: 10435161
@@ -9558,6 +10358,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043517
   Evolution0Id: 10435170
   Evolution1Id: 10435171
@@ -9578,6 +10380,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043518
   Evolution0Id: 10435180
   Evolution1Id: 10435181
@@ -9598,6 +10402,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043519
   Evolution0Id: 10435190
   Evolution1Id: 10435191
@@ -9618,6 +10424,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043520
   Evolution0Id: 0
   Evolution1Id: 10435201
@@ -9638,6 +10446,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043521
   Evolution0Id: 10435210
   Evolution1Id: 10435211
@@ -9658,6 +10468,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043522
   Evolution0Id: 10435220
   Evolution1Id: 10435221
@@ -9678,6 +10490,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043523
   Evolution0Id: 0
   Evolution1Id: 10435231
@@ -9698,6 +10512,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 3
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043524
   Evolution0Id: 10435240
   Evolution1Id: 10435241
@@ -9718,6 +10534,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043801
   Evolution0Id: 0
   Evolution1Id: 10438011
@@ -9738,6 +10556,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043802
   Evolution0Id: 0
   Evolution1Id: 10438021
@@ -9758,6 +10578,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043901
   Evolution0Id: 0
   Evolution1Id: 10439011
@@ -9778,6 +10600,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1043902
   Evolution0Id: 0
   Evolution1Id: 10439021
@@ -9798,6 +10622,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1044401
   Evolution0Id: 10444010
   Evolution1Id: 10444011
@@ -9818,6 +10644,8 @@
   Evolution3RequiredFanLv: 0
   Evolution4RequiredFanLv: 0
   StyleSettingType: 2
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051301
   Evolution0Id: 10513010
   Evolution1Id: 10513011
@@ -9838,6 +10666,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051302
   Evolution0Id: 10513020
   Evolution1Id: 10513021
@@ -9858,6 +10688,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051401
   Evolution0Id: 10514010
   Evolution1Id: 10514011
@@ -9878,6 +10710,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051402
   Evolution0Id: 10514020
   Evolution1Id: 10514021
@@ -9898,6 +10732,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051403
   Evolution0Id: 10514030
   Evolution1Id: 10514031
@@ -9918,6 +10754,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051404
   Evolution0Id: 10514040
   Evolution1Id: 10514041
@@ -9938,6 +10776,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051501
   Evolution0Id: 10515010
   Evolution1Id: 10515011
@@ -9958,6 +10798,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051502
   Evolution0Id: 10515020
   Evolution1Id: 10515021
@@ -9978,6 +10820,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051503
   Evolution0Id: 10515030
   Evolution1Id: 10515031
@@ -9998,6 +10842,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051504
   Evolution0Id: 10515040
   Evolution1Id: 10515041
@@ -10018,6 +10864,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051505
   Evolution0Id: 10515050
   Evolution1Id: 10515051
@@ -10038,6 +10886,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051506
   Evolution0Id: 10515060
   Evolution1Id: 10515061
@@ -10058,6 +10908,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051507
   Evolution0Id: 10515070
   Evolution1Id: 10515071
@@ -10078,6 +10930,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051508
   Evolution0Id: 0
   Evolution1Id: 10515081
@@ -10098,6 +10952,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051509
   Evolution0Id: 10515090
   Evolution1Id: 10515091
@@ -10118,6 +10974,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051510
   Evolution0Id: 10515100
   Evolution1Id: 10515101
@@ -10138,6 +10996,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051511
   Evolution0Id: 10515110
   Evolution1Id: 10515111
@@ -10158,6 +11018,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051512
   Evolution0Id: 10515120
   Evolution1Id: 10515121
@@ -10178,6 +11040,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051801
   Evolution0Id: 0
   Evolution1Id: 10518011
@@ -10198,6 +11062,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1051901
   Evolution0Id: 0
   Evolution1Id: 10519011
@@ -10218,6 +11084,8 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052301
   Evolution0Id: 10523010
   Evolution1Id: 10523011
@@ -10238,6 +11106,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052302
   Evolution0Id: 10523020
   Evolution1Id: 10523021
@@ -10258,6 +11128,8 @@
   Evolution3RequiredFanLv: 15
   Evolution4RequiredFanLv: 30
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052401
   Evolution0Id: 10524010
   Evolution1Id: 10524011
@@ -10278,6 +11150,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052402
   Evolution0Id: 10524020
   Evolution1Id: 10524021
@@ -10298,6 +11172,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052403
   Evolution0Id: 10524030
   Evolution1Id: 10524031
@@ -10318,6 +11194,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052404
   Evolution0Id: 10524040
   Evolution1Id: 10524041
@@ -10338,6 +11216,8 @@
   Evolution3RequiredFanLv: 20
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052501
   Evolution0Id: 10525010
   Evolution1Id: 10525011
@@ -10358,6 +11238,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052502
   Evolution0Id: 10525020
   Evolution1Id: 10525021
@@ -10378,6 +11260,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052503
   Evolution0Id: 10525030
   Evolution1Id: 10525031
@@ -10398,6 +11282,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052504
   Evolution0Id: 10525040
   Evolution1Id: 10525041
@@ -10418,6 +11304,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052505
   Evolution0Id: 10525050
   Evolution1Id: 10525051
@@ -10438,6 +11326,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052506
   Evolution0Id: 10525060
   Evolution1Id: 10525061
@@ -10458,6 +11348,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052507
   Evolution0Id: 10525070
   Evolution1Id: 10525071
@@ -10478,6 +11370,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052508
   Evolution0Id: 10525080
   Evolution1Id: 10525081
@@ -10498,6 +11392,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052509
   Evolution0Id: 10525090
   Evolution1Id: 10525091
@@ -10518,6 +11414,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052510
   Evolution0Id: 10525100
   Evolution1Id: 10525101
@@ -10538,6 +11436,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052511
   Evolution0Id: 10525110
   Evolution1Id: 10525111
@@ -10558,6 +11458,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052512
   Evolution0Id: 10525120
   Evolution1Id: 10525121
@@ -10578,6 +11480,8 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052801
   Evolution0Id: 0
   Evolution1Id: 10528011
@@ -10598,6 +11502,8 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
 - Id: 1052901
   Evolution0Id: 0
   Evolution1Id: 10529011
@@ -10618,3 +11524,5 @@
   Evolution3RequiredFanLv: 30
   Evolution4RequiredFanLv: 60
   StyleSettingType: 1
+  StartTime: 2022-12-31T15:00:00Z
+  IsParallelCard: 0
