@@ -4358,6 +4358,26 @@
   MusicsId: 405140
   Level: 50
   MusicMasterySkillsId: 3
+- Id: 40514110
+  MusicsId: 405141
+  Level: 10
+  MusicMasterySkillsId: 2
+- Id: 40514120
+  MusicsId: 405141
+  Level: 20
+  MusicMasterySkillsId: 2
+- Id: 40514130
+  MusicsId: 405141
+  Level: 30
+  MusicMasterySkillsId: 2
+- Id: 40514140
+  MusicsId: 405141
+  Level: 40
+  MusicMasterySkillsId: 2
+- Id: 40514150
+  MusicsId: 405141
+  Level: 50
+  MusicMasterySkillsId: 2
 - Id: 40514210
   MusicsId: 405142
   Level: 10

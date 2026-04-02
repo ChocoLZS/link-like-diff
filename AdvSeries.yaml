@@ -653,24 +653,8 @@
   StartTime: 2026-03-07T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   FiscalYearDisplay: 2025
-  AdvAlbumId: 0
+  AdvAlbumId: 105012
   IsBadgeDisplayType: 0
   MonthText: March
   YearText: 105期
   StorySegment: 0
-- Id: 200001
-  SeasonsId: 10301
-  Name: 『Be Cera-fish』
-  Description: |-
-    105期3月。来年度以降のセラスの所属ユニットが
-    決まっていないという問題が発覚！　どのユニッ
-    トも歓迎の手を差し伸べる中、セラスは「ソロに
-    なる！」と逃げ出してしまい……？
-  StartTime: 2026-04-10T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
-  FiscalYearDisplay: 2025
-  AdvAlbumId: 0
-  IsBadgeDisplayType: 0
-  MonthText: Chapter1
-  YearText: ""
-  StorySegment: 1
