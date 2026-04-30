@@ -658,3 +658,19 @@
   MonthText: March
   YearText: 105期
   StorySegment: 0
+- Id: 200001
+  SeasonsId: 10301
+  Name: 『Water the flowers』
+  Description: |-
+    105期3月。Bloom Garden Partyが間近に迫る中、
+    花帆が「三連華の曲を作りたい！」と提案する。
+    3年間の軌跡を歌にするべくアイディアを出し合う
+    三連華だったが、なかなか方向性が定まらず……？
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  FiscalYearDisplay: 2025
+  AdvAlbumId: 0
+  IsBadgeDisplayType: 0
+  MonthText: Chapter PERENNIAL
+  YearText: ""
+  StorySegment: 1

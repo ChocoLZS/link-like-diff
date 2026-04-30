@@ -1,0 +1,16 @@
+- Id: 1
+  CategoryId: 1
+  ChapterMissionCategoryName: カード
+  LimitPoint: 3000
+- Id: 2
+  CategoryId: 2
+  ChapterMissionCategoryName: スクコネ
+  LimitPoint: 0
+- Id: 3
+  CategoryId: 3
+  ChapterMissionCategoryName: ゲーム
+  LimitPoint: 4000
+- Id: 4
+  CategoryId: 4
+  ChapterMissionCategoryName: その他
+  LimitPoint: 3000
