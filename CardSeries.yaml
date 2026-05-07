@@ -11812,3 +11812,25 @@
   StyleSettingType: 1
   StartTime: 2026-04-30T03:00:00Z
   IsParallelCard: 0
+- Id: 1953401
+  Evolution0Id: 19534010
+  Evolution1Id: 19534011
+  Evolution2Id: 19534012
+  ObtainFanLvPt: 0
+  Evolution1FanLvPt: 0
+  Evolution2FanLvPt: 0
+  LimitBreak1FanLvPt: 0
+  LimitBreak2FanLvPt: 0
+  LimitBreak3FanLvPt: 0
+  LimitBreak4FanLvPt: 0
+  LimitedType: 0
+  SideStyleSettingCharacterId: 1041,1042,1043,1051,1052
+  Evolution3Id: 19534013
+  Evolution4Id: 19534014
+  Evolution3FanLvPt: 0
+  Evolution4FanLvPt: 0
+  Evolution3RequiredFanLv: 0
+  Evolution4RequiredFanLv: 0
+  StyleSettingType: 2
+  StartTime: 2026-05-08T03:00:00Z
+  IsParallelCard: 0

@@ -210208,6 +210208,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: 29335010140,29335010143
   Description: このステージ中、獲得するLOVEを$+45%$する。さらにムードがメロウ100のとき、5回の間ボルテージゲイン効果を$+300%$する。
+- Id: 2953401001
+  CardSkillSeriesId: 29534010
+  SkillLevel: 1
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010010,29534010011,29534010012
+  Description: このセクション中、AP回復速度を$+12%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$424%$増幅する。
+- Id: 2953401002
+  CardSkillSeriesId: 29534010
+  SkillLevel: 2
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010020,29534010021,29534010022
+  Description: このセクション中、AP回復速度を$+13.2%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$466.4%$増幅する。
+- Id: 2953401003
+  CardSkillSeriesId: 29534010
+  SkillLevel: 3
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010030,29534010031,29534010032
+  Description: このセクション中、AP回復速度を$+14.4%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$508.8%$増幅する。
+- Id: 2953401004
+  CardSkillSeriesId: 29534010
+  SkillLevel: 4
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010040,29534010041,29534010042
+  Description: このセクション中、AP回復速度を$+15.6%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$551.2%$増幅する。
+- Id: 2953401005
+  CardSkillSeriesId: 29534010
+  SkillLevel: 5
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010050,29534010051,29534010052
+  Description: このセクション中、AP回復速度を$+16.8%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$593.6%$増幅する。
+- Id: 2953401006
+  CardSkillSeriesId: 29534010
+  SkillLevel: 6
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010060,29534010061,29534010062
+  Description: このセクション中、AP回復速度を$+18%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$636%$増幅する。
+- Id: 2953401007
+  CardSkillSeriesId: 29534010
+  SkillLevel: 7
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010070,29534010071,29534010072
+  Description: このセクション中、AP回復速度を$+19.2%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$678.4%$増幅する。
+- Id: 2953401008
+  CardSkillSeriesId: 29534010
+  SkillLevel: 8
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010080,29534010081,29534010082
+  Description: このセクション中、AP回復速度を$+20.4%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$720.8%$増幅する。
+- Id: 2953401009
+  CardSkillSeriesId: 29534010
+  SkillLevel: 9
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010090,29534010091,29534010092
+  Description: このセクション中、AP回復速度を$+21.6%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$763.2%$増幅する。
+- Id: 2953401010
+  CardSkillSeriesId: 29534010
+  SkillLevel: 10
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010100,29534010101,29534010102
+  Description: このセクション中、AP回復速度を$+24%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$848%$増幅する。
+- Id: 2953401011
+  CardSkillSeriesId: 29534010
+  SkillLevel: 11
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010110,29534010111,29534010112
+  Description: このセクション中、AP回復速度を$+25.2%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$890.4%$増幅する。
+- Id: 2953401012
+  CardSkillSeriesId: 29534010
+  SkillLevel: 12
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010120,29534010121,29534010122
+  Description: このセクション中、AP回復速度を$+26.4%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$932.8%$増幅する。
+- Id: 2953401013
+  CardSkillSeriesId: 29534010
+  SkillLevel: 13
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010130,29534010131,29534010132
+  Description: このセクション中、AP回復速度を$+27.6%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$975.2%$増幅する。
+- Id: 2953401014
+  CardSkillSeriesId: 29534010
+  SkillLevel: 14
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: 29534010140,29534010141,29534010142
+  Description: このセクション中、AP回復速度を$+30%$し、手札の上限枚数を2枚増加する。さらに最終セクションで使用したとき、このセクション中、あらゆるスキルの効果量を$1060%$増幅する。
 - Id: 3011501001
   CardSkillSeriesId: 30115010
   SkillLevel: 1
@@ -213799,6 +213897,13 @@
   ApperanceType: 0
   CardSkillEffectId: 39335010010,39335010012,39335010014,39335010016
   Description: ドローしたとき、デッキ内の花帆、さやかのスキルの消費APを-5する。さらに手札にある間、花帆、さやかが使用するあらゆるスキルの効果量を300%増幅する。
+- Id: 3953401001
+  CardSkillSeriesId: 39534010
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: 39534010010,39534010011,39534010012,39534010014
+  Description: 花帆のスキル使用後以外ドローされない。ドローしたとき、デッキ内の全てのスキルの消費APを-2、花帆のスキルはさらに消費APを-4する。
 - Id: 8001301001
   CardSkillSeriesId: 80013010
   SkillLevel: 1
