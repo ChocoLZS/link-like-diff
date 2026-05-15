@@ -1,12 +1,24 @@
 - Id: 5000051
   Name: Chapter S Rank
-  ConditionText: Chapter Sランクを称えるアイコンフレーム
+  ConditionText: Chapter1のSランクを称えるアイコンフレーム
+  EndTimeType: 2
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleDisplay: 0
+- Id: 5000052
+  Name: Chapter S Rank
+  ConditionText: Chapter2のSランクを称えるアイコンフレーム
   EndTimeType: 2
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleDisplay: 0
 - Id: 5000061
   Name: Chapter SS Rank
-  ConditionText: Chapter SSランクを称えるアイコンフレーム
+  ConditionText: Chapter1のSSランクを称えるアイコンフレーム
+  EndTimeType: 2
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleDisplay: 0
+- Id: 5000062
+  Name: Chapter SS Rank
+  ConditionText: Chapter2のSSランクを称えるアイコンフレーム
   EndTimeType: 2
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleDisplay: 0

@@ -11702,6 +11702,28 @@
   StyleSettingType: 1
   StartTime: 2026-04-30T03:00:00Z
   IsParallelCard: 0
+- Id: 1921502
+  Evolution0Id: 19215020
+  Evolution1Id: 19215021
+  Evolution2Id: 19215022
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 19215023
+  Evolution4Id: 19215024
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
+  StartTime: 2026-05-16T03:00:00Z
+  IsParallelCard: 0
 - Id: 1922501
   Evolution0Id: 19225010
   Evolution1Id: 19225011
@@ -11745,6 +11767,28 @@
   Evolution4RequiredFanLv: 40
   StyleSettingType: 1
   StartTime: 2026-04-30T03:00:00Z
+  IsParallelCard: 0
+- Id: 1923501
+  Evolution0Id: 19235010
+  Evolution1Id: 19235011
+  Evolution2Id: 19235012
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 19235013
+  Evolution4Id: 19235014
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
+  StartTime: 2026-05-16T03:00:00Z
   IsParallelCard: 0
 - Id: 1931501
   Evolution0Id: 19315010
@@ -11811,6 +11855,50 @@
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
   StartTime: 2026-04-30T03:00:00Z
+  IsParallelCard: 0
+- Id: 1942502
+  Evolution0Id: 19425020
+  Evolution1Id: 19425021
+  Evolution2Id: 19425022
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 19425023
+  Evolution4Id: 19425024
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
+  StartTime: 2026-05-16T03:00:00Z
+  IsParallelCard: 0
+- Id: 1951501
+  Evolution0Id: 19515010
+  Evolution1Id: 19515011
+  Evolution2Id: 19515012
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 19515013
+  Evolution4Id: 19515014
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
+  StartTime: 2026-05-16T03:00:00Z
   IsParallelCard: 0
 - Id: 1953401
   Evolution0Id: 19534010

@@ -3,3 +3,8 @@
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2026-05-16T02:59:59Z
   MissionGroup: 1
+- Id: 10002
+  ChapterName: Chapter FILM B.G.P.
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2026-06-01T02:59:59Z
+  MissionGroup: 2

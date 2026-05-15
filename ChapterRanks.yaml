@@ -1,0 +1,24 @@
+- Id: 1
+  ChapterRankName: Rank D
+  RequirePoint: 0
+  RewardIconFrame: 0
+- Id: 2
+  ChapterRankName: Rank C
+  RequirePoint: 2000
+  RewardIconFrame: 0
+- Id: 3
+  ChapterRankName: Rank B
+  RequirePoint: 4000
+  RewardIconFrame: 0
+- Id: 4
+  ChapterRankName: Rank A
+  RequirePoint: 6000
+  RewardIconFrame: 0
+- Id: 5
+  ChapterRankName: Rank S
+  RequirePoint: 8000
+  RewardIconFrame: 5000052
+- Id: 6
+  ChapterRankName: Rank SS
+  RequirePoint: 9500
+  RewardIconFrame: 5000062
