@@ -17,8 +17,8 @@
 - Id: 5
   ChapterRankName: Rank S
   RequirePoint: 8000
-  RewardIconFrame: 5000052
+  RewardIconFrame: 5000051
 - Id: 6
   ChapterRankName: Rank SS
   RequirePoint: 9500
-  RewardIconFrame: 5000062
+  RewardIconFrame: 5000061
