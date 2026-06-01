@@ -674,3 +674,19 @@
   MonthText: Chapter PERENNIAL
   YearText: ""
   StorySegment: 1
+- Id: 200002
+  SeasonsId: 10301
+  Name: 『Be Cera-fish』
+  Description: |-
+    105期3月。来年度以降のセラスの所属ユニットが
+    決まっていないという問題が発覚！　どのユニッ
+    トも歓迎の手を差し伸べる中、セラスは「ソロに
+    なる！」と逃げ出してしまい……？
+  StartTime: 2026-06-01T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  FiscalYearDisplay: 2025
+  AdvAlbumId: 0
+  IsBadgeDisplayType: 0
+  MonthText: Chapter BRIGHT SEEDS
+  YearText: ""
+  StorySegment: 1

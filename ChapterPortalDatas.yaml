@@ -10,3 +10,9 @@
   FeaturedAdvSeriesId: 0
   StartTime: 2026-05-16T03:00:00Z
   EndTime: 2026-06-01T02:59:59Z
+- Id: 100031
+  ChapterId: 10003
+  FeaturedGachaSeriesId: 1055003
+  FeaturedAdvSeriesId: 200002
+  StartTime: 2026-06-01T03:00:00Z
+  EndTime: 2026-06-30T02:59:59Z

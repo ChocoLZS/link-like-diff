@@ -8,3 +8,8 @@
   StartTime: 2026-05-16T03:00:00Z
   EndTime: 2026-06-01T02:59:59Z
   MissionGroup: 2
+- Id: 10003
+  ChapterName: Chapter BRIGHT SEEDS
+  StartTime: 2026-06-01T03:00:00Z
+  EndTime: 2026-06-30T02:59:59Z
+  MissionGroup: 3
